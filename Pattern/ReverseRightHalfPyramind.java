@@ -12,5 +12,4 @@ public class ReverseRightHalfPyramind {
 			System.out.println();
 		}
 	}
-
 }
