@@ -15,5 +15,4 @@ public class LeftHalfPyramid {
 			System.out.println();
 		}
 	}
-
 }
