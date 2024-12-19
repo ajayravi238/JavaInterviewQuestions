@@ -12,5 +12,4 @@ public class RightHalfPyramid {
 			System.out.println();
 		}
 	}
-
 }
