@@ -17,5 +17,4 @@ public class Hollow {
 			System.out.println();
 		}
 	}
-
 }
