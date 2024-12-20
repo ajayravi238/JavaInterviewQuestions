@@ -17,5 +17,4 @@ public class OuterLayerStar {
 			System.out.println();
 		}
 	}
-
 }
