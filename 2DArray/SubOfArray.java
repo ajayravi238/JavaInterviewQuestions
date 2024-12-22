@@ -30,5 +30,4 @@ public class SubOfArray {
 			System.out.println();
 		}
 	}
-
 }
