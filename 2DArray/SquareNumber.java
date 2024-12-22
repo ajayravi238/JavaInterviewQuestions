@@ -25,5 +25,4 @@ public class SquareNumber {
 			System.out.println();
 		}
 	}
-
 }
