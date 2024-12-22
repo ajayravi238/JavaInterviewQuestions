@@ -30,5 +30,4 @@ public class SumOfArray {
 			System.out.println();
 		}
 	}
-
 }
