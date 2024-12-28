@@ -15,5 +15,4 @@ public class ArithemeticSeries {
 			firstTerm = sum;
 		}
 	}
-
 }
