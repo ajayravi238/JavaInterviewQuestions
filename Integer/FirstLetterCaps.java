@@ -12,5 +12,4 @@ public class FirstLetterCaps {
 			System.out.print(arr[i].substring(1, arr[i].length()) + " ");
 		}
 	}
-
 }
