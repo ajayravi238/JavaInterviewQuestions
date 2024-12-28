@@ -15,5 +15,4 @@ public class Average {
 		}
 		System.out.println(sum/size);
 	}
-  
 }
